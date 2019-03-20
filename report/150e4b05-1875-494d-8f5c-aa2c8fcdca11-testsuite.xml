@@ -1,0 +1,37 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552962246499" stop="1552962246514">
+  <name>test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1552962246499" status="passed" stop="1552962246502">
+      <name>Test01.test0</name>
+      <attachments>
+        <attachment source="09112a16-cc4d-423c-9269-fc885f2dd018-attachment.txt" title="点击新增地址按钮" type="text/plain"/>
+        <attachment source="dda0ba54-aa3b-460c-92b2-d659591390ce-attachment.txt" title="点击新增输入收件人：" type="text/plain"/>
+        <attachment source="87dce31b-603e-4a33-b58c-146b7fe56fa7-attachment.txt" title="点击新增输入手机号：" type="text/plain"/>
+        <attachment source="193b3252-5445-4423-bacc-0ef5b5d5a5be-attachment.txt" title="点击新增输入收货地址：" type="text/plain"/>
+        <attachment source="db07eb98-aec7-436e-a5d3-6eb92f9816d1-attachment.txt" title="点击新增输入点击新增：" type="text/plain"/>
+        <attachment source="616b7ca8-c7f8-41d4-a8fe-a8b0c4bf5cc3-attachment.txt" title="点击新增输入点击更新：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5804-MainThread"/>
+        <label name="host" value="LAPTOP-NMO00EVT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552962246513" status="passed" stop="1552962246514">
+      <name>Test01.test002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5804-MainThread"/>
+        <label name="host" value="LAPTOP-NMO00EVT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
